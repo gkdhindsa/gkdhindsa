@@ -11,3 +11,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I love cheesecake
 
+![Gurnehmat's Github Stats](https://github-readme-stats.vercel.app/api?username=gkdhindsa&show_icons=true_color=fff&icon_color=037AFE&text_color=000000&bg_color=ffffff)
