@@ -1,5 +1,7 @@
 <div align="center">
-<img  src="./assets/gitgif2.gif" height="278px" width="300px">
+<h1>
+Hi, I'm Gurnehmat!
+</h1>
 <br>
 <br>
 🌐  I’m currently learning web development and UI/UX <br>
