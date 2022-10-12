@@ -4,10 +4,10 @@ Hi, I'm Gurnehmat!
 </h1>
 <br>
 <br>
-🌐  I’m currently learning web development and UI/UX <br>
-✅  I’m looking to collaborate on anything fun (that requires a front end developer :3) <br>
+🌐  I’m a front end web developer <br>
+✅  I’m looking to collaborate on  something challenging <br>
 💛  I’m looking for help with back end development <br>
-🤹‍♀️  Pronouns: She/Her<br>
+🤹‍♀️  Pronouns: She/They<br>
 <br>
 
 ### Skills
@@ -16,11 +16,11 @@ Hi, I'm Gurnehmat!
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">
-
-
-
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red">
 <br>
 <br>
 
